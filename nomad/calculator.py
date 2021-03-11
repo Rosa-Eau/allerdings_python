@@ -39,5 +39,5 @@ while text == 'go' or text == "Go" :
     result_rmd = rmd(a, b)
     print(result_rmd)
   else :
-    print("Error : it's not an Operator")
+    print("Error : it's not an Operator.")
 
